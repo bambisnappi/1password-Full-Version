@@ -235,3 +235,6 @@ This repository serves as the official landing page for 1Password. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of 1Password today!**
+
+---
+**Last updated:** 2026-09-06 16:39:58 UTC
