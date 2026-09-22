@@ -237,4 +237,4 @@ This repository serves as the official landing page for 1Password. The software 
 **Get the most recent version of 1Password today!**
 
 ---
-**Last updated:** 2026-09-22 00:30:42 UTC
+**Last updated:** 2026-09-22 05:45:55 UTC
